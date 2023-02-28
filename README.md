@@ -15,9 +15,11 @@ Understand how to customize the UI for each item in the RecyclerView
 
 ### Application Features
 Required Features
-[x] User can scroll through a list of 10 emails
-[x] Each email includes the following information: Sender, Email title, Email summary
+- [x] User can scroll through a list of 10 emails
+- [x] Each email includes the following information: Sender, Email title, Email summary
 
 ### Stretch Features
-[] User can press a 'Load More' button to see the next 5 emails displayed
-[] Each email displays additional information: Picture of the sender, Email sent date, Bolded information if the email is unread
+- [] User can press a 'Load More' button to see the next 5 emails displayed
+- [] Each email displays additional information: Picture of the sender, Email sent date, Bolded information if the email is unread
+
+<img src=https://github.com/JavierCunat/SimpleCounter/blob/master/simpleCounter.gif width=200px>
