@@ -1,6 +1,6 @@
 # RecyclerView
 
-##Overview
+## Overview
 In this lab, we'll build a simple clone of the very popular Gmail app.
 
 The main purpose of this lab is to understand how to implement the most common type of screen in mobile apps: scrolling lists.
