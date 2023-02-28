@@ -22,4 +22,4 @@ Required Features
 - [] User can press a 'Load More' button to see the next 5 emails displayed
 - [] Each email displays additional information: Picture of the sender, Email sent date, Bolded information if the email is unread
 
-<img src=https://github.com/JavierCunat/SimpleCounter/blob/master/simpleCounter.gif width=200px>
+<img src=https://github.com/JavierCunat/RecyclerView/blob/master/RecyclerView.gif width=200px>
